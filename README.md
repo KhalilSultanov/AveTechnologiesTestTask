@@ -11,7 +11,7 @@ REST-сервис для хранения и получения адресов �
 ### Запуск
 
 ```bash
-  git clone <repo-url>
+  git clone [<repo-url>](https://github.com/KhalilSultanov/AveTechnologiesTestTask)
   cd ave-technologies-test-task
   
   docker compose up --build
